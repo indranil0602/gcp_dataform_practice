@@ -1,8 +1,0 @@
-config {
-    type: "view",
-    schema: "dataform_test_ds"
-}
-
-SELECT
-  "Test" AS name,
-  "Test_2" AS name_2
