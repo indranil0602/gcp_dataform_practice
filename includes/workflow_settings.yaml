@@ -1,0 +1,5 @@
+defaultProject: weather-data-ingestion-project
+defaultLocation: asia-south1
+defaultDataset: dataform_test_ds
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
