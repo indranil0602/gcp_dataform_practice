@@ -4,3 +4,4 @@ config {
     schema:"SCHEMA",
     name: "NAME"
 }
+    'weather-data-ingestion-project.dataform_test_ds.drinks'

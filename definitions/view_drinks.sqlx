@@ -1,11 +1,11 @@
 config {
-    type: "view"
+    type: "view",
+    schema: "dataform_test_ds"
 }
 
 SELECT
     DISTINCT drink_id,
     drink_name,
-    drink_description,
-    drink_price,
+    drink_price
 FROM 
     ${ref("drinks")}
