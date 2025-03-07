@@ -1,7 +1,6 @@
 config {
     type: "declaration",
-    database:"DATABASE",
-    schema:"SCHEMA",
-    name: "NAME"
+    database:"weather-data-ingestion-project",
+    schema:"dataform_test_ds",
+    name: "drinks"
 }
-    'weather-data-ingestion-project.dataform_test_ds.drinks'

@@ -1,6 +1,5 @@
 config {
-    type: "view",
-    schema: "dataform_test_ds"
+    type: "view"
 }
 
 SELECT
