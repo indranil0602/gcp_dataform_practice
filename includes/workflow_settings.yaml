@@ -4,4 +4,4 @@ defaultDataset: dataform_test_ds
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
 vars:
-    executionDate: "2025-03-08"
+    executionDate: "2025-03-09"
