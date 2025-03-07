@@ -5,6 +5,7 @@ config {
 SELECT
     DISTINCT drink_id,
     drink_name,
-    drink_price
+    drink_type,
+    price
 FROM 
     ${ref("drinks")}
