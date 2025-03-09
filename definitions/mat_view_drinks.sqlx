@@ -1,5 +1,7 @@
 config {
-    type: "view"
+    type: "view",
+    schema: "dataform_test_ds",
+    materialized: true
 }
 
 SELECT

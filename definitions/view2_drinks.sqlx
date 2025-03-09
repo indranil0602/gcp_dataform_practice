@@ -6,6 +6,7 @@ SELECT
     DISTINCT drink_id,
     drink_name,
     drink_type,
-    price
+    price,
+    '${dataform.projectConfig.vars.executionDate}' as executionDate
 FROM 
     ${ref("drinks")}

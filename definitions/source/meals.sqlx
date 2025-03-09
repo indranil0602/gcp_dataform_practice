@@ -2,5 +2,5 @@ config {
     type: "declaration",
     database:"weather-data-ingestion-project",
     schema:"dataform_test_ds",
-    name: "drinks"
+    name: "meals"
 }
